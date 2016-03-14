@@ -5,4 +5,7 @@
   'author': 'Daniel Reis',
   'depends': ['todo_app'],
   'application': True,
+  
+  'data': ['todo_view.xml',
+  ],
 }
